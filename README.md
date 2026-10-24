@@ -35,6 +35,9 @@ The main website files are organized inside the `food project` folder.
   <br>
   images: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/tree/main/food%20project/resources/img
   <br>
+  git clone: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage
+  <br>
+  link: https://omnifood-food-delivery-webpage.netlify.app/
   
 
 ## How to Run
