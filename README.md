@@ -26,8 +26,10 @@ The main website files are organized inside the `food project` folder.
 - `resources/img/` — Website images.
 - `vendors/css/normalize.css` — CSS normalization stylesheet.
 
-  ##Project Files
+  **##Project Files**
   html: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/blob/main/food%20project/index.html
+  resources: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/tree/main/food%20project/resources
+  vendors: 
 
 ## How to Run
 1. Download or clone this repository.
