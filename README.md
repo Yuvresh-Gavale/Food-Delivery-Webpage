@@ -28,9 +28,13 @@ The main website files are organized inside the `food project` folder.
 
 ## Project Files
   html: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/blob/main/food%20project/index.html
+  <br>
   resources: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/tree/main/food%20project/resources
+  <br>
   vendors: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/tree/main/food%20project/vendors/css
+  <br>
   images: https://github.com/Yuvresh-Gavale/Food-Delivery-Webpage/tree/main/food%20project/resources/img
+  <br>
 
 ## How to Run
 1. Download or clone this repository.
